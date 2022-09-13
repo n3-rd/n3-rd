@@ -1,7 +1,8 @@
 ## Hi there, I'm Godwin Jemegah. But call me N3RD (nɜːd) will you?👋
 
-[![Email Me](https://img.shields.io/badge/-godwinjdayo@gmail.com-c14438?style=flat-for-the-badge&logo=Gmail&link=mailto:godwinjdayo@gmail.com)](mailto:godwinjdayo@gmail.com)
-![Twitter Follow](https://img.shields.io/twitter/follow/web_n3rd?color=%230095FF&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/n3-rd?color=%230D1117&logo=github&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/web_n3rd?color=%230095FF&logo=twitter&style=for-the-badge)
+
 
 ## Stats
 
