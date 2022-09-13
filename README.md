@@ -23,3 +23,7 @@ I am a web developer and designer based in the badass city of [Lagos, Nigeria](h
 ### Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n3-rd&theme=dark)](https://git.io/streak-stats)
+
+## Donate
+
+<a href="https://www.buymeacoffee.com/Godwinjemegah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
