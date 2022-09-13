@@ -1,6 +1,6 @@
 ## Hi there, I'm Godwin Jemegah. But call me N3RD (nɜːd) will you?👋
 
-[![N3RD's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3-rds&how_icons=true&theme=dark])(https://github.com/anuraghazra/github-readme-stats)
+[![N3RD's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3-rd&show_icons=true&theme=dark])(https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
