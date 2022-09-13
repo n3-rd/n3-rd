@@ -1,6 +1,12 @@
 ## Hi there, I'm Godwin Jemegah. But call me N3RD (nɜːd) will you?👋
 
-[![N3RD's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3-rd&show_icons=true&theme=dark])(https://github.com/anuraghazra/github-readme-stats)
+[![Email Me](https://img.shields.io/badge/-godwinjdayo@gmail.com-c14438?style=flat-for-the-badge&logo=Gmail&link=mailto:godwinjdayo@gmail.com)](mailto:godwinjdayo@gmail.com)
+![Twitter Follow](https://img.shields.io/twitter/follow/web_n3rd?color=%230095FF&style=for-the-badge)
+
+## Stats
+
+[![N3RD's GitHub stats](https://github-readme-stats.vercel.app/api?username=n3-rd&show_icons=true&theme=dark](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
