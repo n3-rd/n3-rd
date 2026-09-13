@@ -127,6 +127,12 @@
 <img src="https://raw.githubusercontent.com/n3-rd/n3-rd/output/activity-graph.svg" width="100%"/>
 </div>
 
+<h3 align="center">◤ now playing ◢</h3>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/n3-rd/n3-rd/output/spotify.svg" width="450" alt="spotify now playing"/>
+</div>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,100:24243e&height=3&width=900" width="100%"/>
 </div>
