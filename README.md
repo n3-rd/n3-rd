@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff9d,50:ff00c8,100:00d4ff&height=260&section=header&animation=blink&fontColor=ffffff&fontSize=0" width="100%"/>
+<img src="https://music.n3-rd.xyz/api/theme/header.svg" width="100%"/>
 
 </div>
 
@@ -90,10 +90,10 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=n3-rd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF9D&icon_color=FF00C8&text_color=c9d1d9&ring_color=00D4FF"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3-rd&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=c9d1d9&langs_count=8"/>
+<img height="165em" src="https://music.n3-rd.xyz/api/theme/stats.svg"/>
+<img height="165em" src="https://music.n3-rd.xyz/api/theme/toplangs.svg"/>
 
-<img src="https://streak-stats.demolab.com/?user=n3-rd&hide_border=true&background=0d1117&ring=FF00C8&fire=00FF9D&currStreakLabel=00D4FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+<img src="https://music.n3-rd.xyz/api/theme/streak.svg" />
 
 </div>
 
@@ -143,4 +143,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:ff00c8,100:00ff9d&height=200&section=footer&animation=blink" width="100%"/>
+<img src="https://music.n3-rd.xyz/api/theme/footer.svg" width="100%"/>
