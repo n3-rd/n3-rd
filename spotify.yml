@@ -1,0 +1,57 @@
+name: update spotify card
+
+# runs far more often than the other widgets on purpose — a "now
+# playing" card that's hours old defeats the point. This also commits
+# a fresh cache-busting query param onto the README's image URL each
+# run, because GitHub's image proxy (camo) otherwise caches the same
+# URL for a while even after the underlying SVG changes.
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: make dist folder
+        run: mkdir -p dist
+
+      - name: generate spotify card
+        run: python spotify_card.py
+
+      - name: push card to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: bust the readme's cached copy
+        run: |
+          TS=$(date +%s)
+          sed -i -E "s#(output/spotify\.svg)(\?t=[0-9]+)?#\1?t=${TS}#" README.md
+
+      - name: commit the cache-buster if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "no change to commit"
+          else
+            git commit -m "refresh spotify card"
+            git pull --rebase
+            git push
+          fi
