@@ -4,18 +4,6 @@
 
 </div>
 
-<pre align="center">
-<code>
-██████╗ ██╗██████╗ ██████╗ 
-██╔══██╗██║╚════██╗██╔══██╗
-██║  ██║██║ █████╔╝██║  ██║
-██║  ██║██║ ╚═══██╗██║  ██║
-██████╔╝██║██████╔╝██████╔╝
-╚═════╝ ╚═╝╚═════╝ ╚═════╝ 
-   n 3 r d  //  g o d w i n   j e m e g a h
-</code>
-</pre>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=500&color=00FF9D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+booting+n3rd.exe...;%3E+loading+creativity+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+status%3A+online+%E2%80%94+lagos%2C+nigeria+%F0%9F%87%B3%F0%9F%87%AC;%3E+n%CC%B83%CC%B7r%CC%B4d%CC%B6+is+watching..." alt="terminal boot"/>
