@@ -90,8 +90,8 @@
 
 <div align="center">
 
-<img height="165em" src="https://music.n3-rd.xyz/api/theme/stats.svg"/>
-<img height="165em" src="https://music.n3-rd.xyz/api/theme/toplangs.svg"/>
+<img height="165em" src="https://music.n3-rd.xyz/api/theme/stats.svg?v=1"/>
+<img height="165em" src="https://music.n3-rd.xyz/api/theme/toplangs.svg?v=1"/>
 
 <img src="https://music.n3-rd.xyz/api/theme/streak.svg" />
 
