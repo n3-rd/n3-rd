@@ -5,7 +5,7 @@ name: generate profile widgets
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */6 * * *" # every 6 hours
   push:
     branches:
       - main
@@ -42,8 +42,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: n3-rd
+          USERNAME: n3-rd
 
       - name: move 3d skyline into dist
         run: cp profile-3d-contrib/*.svg dist/ 2>/dev/null || true
