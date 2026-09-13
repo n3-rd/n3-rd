@@ -1,0 +1,31 @@
+name: update activity graph
+
+on:
+  schedule:
+    - cron: "30 */12 * * *"   # every 12 hours, offset from snake
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: n3-rd
+          options: bg_color=0d1117&color=00FF9D&line=FF00C8&point=00D4FF&area=true&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

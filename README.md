@@ -1,29 +1,182 @@
-### Hi there 👋, I'm Godwin Jemegah. But call me N3RD (nɜːd) will you?
-![](https://i.ibb.co/KrZbXv5/Screenshot-from-2022-09-13-15-46-03.png)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff9d,50:ff00c8,100:00d4ff&height=260&section=header&animation=blink&fontColor=ffffff&fontSize=0" width="100%"/>
 
-I am a web developer and designer based in the badass city of [Lagos, Nigeria](https://en.wikipedia.org/wiki/Lagos) I create websites and web apps that are responsive, fast and accessible. with the latest and trusted web technology known to man :). I also create native-like hybrid apps that work on all devices with with Vanilla JavaScript and other frameworks.
+</div>
 
-#### Stack:
-![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-black.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)  ![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-black.svg?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-black.svg?style=flat-square&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-black.svg?style=flat-square&logo=git&logoColor=white)
+<pre align="center">
+<code>
+██████╗ ██╗██████╗ ██████╗ 
+██╔══██╗██║╚════██╗██╔══██╗
+██║  ██║██║ █████╔╝██║  ██║
+██║  ██║██║ ╚═══██╗██║  ██║
+██████╔╝██║██████╔╝██████╔╝
+╚═════╝ ╚═╝╚═════╝ ╚═════╝ 
+   n 3 r d  //  g o d w i n   j e m e g a h
+</code>
+</pre>
 
-### Stats
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3-rd&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=500&color=00FF9D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+booting+n3rd.exe...;%3E+loading+creativity+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+status%3A+online+%E2%80%94+lagos%2C+nigeria+%F0%9F%87%B3%F0%9F%87%AC;%3E+n%CC%B83%CC%B7r%CC%B4d%CC%B6+is+watching..." alt="terminal boot"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=n3-rd&show_icons=true&theme=dark)
+</div>
 
-### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=n3-rd&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<code>┌──────────────────────────────────────────────────────────┐</code><br>
+<code>│  web dev + designer · builds fast, accessible interfaces  │</code><br>
+<code>│  hybrid apps · vanilla js + modern frameworks              │</code><br>
+<code>│  currently in the lab: three.js · glsl · blender · ai       │</code><br>
+<code>└──────────────────────────────────────────────────────────┘</code>
+</p>
 
-### Metrics
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,100:24243e&height=3&width=900" width="100%"/>
+</div>
 
-![GitHub metrics](https://metrics.lecoq.io/n3-rd)
+<h3 align="center">⌁ signal / stack ⌁</h3>
 
-### Streak
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,vue,nodejs,css,tailwind,html,git,figma,threejs,blender&theme=dark" />
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n3-rd&theme=dark)](https://git.io/streak-stats)
+<br>
 
-## Donate
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-<a href="https://www.buymeacoffee.com/Godwinjemegah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+```
+ ╔════════════╗
+ ║  UPTIME    ║
+ ║  since '18 ║
+ ╚════════════╝
+```
+
+</td>
+<td align="center" width="33%">
+
+```
+ ╔════════════╗
+ ║  LOCATION  ║
+ ║   LAGOS    ║
+ ╚════════════╝
+```
+
+</td>
+<td align="center" width="33%">
+
+```
+ ╔════════════╗
+ ║  MODE      ║
+ ║  SHIP FAST ║
+ ╚════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:24243e,100:0f0c29&height=3&width=900" width="100%"/>
+</div>
+
+<h3 align="center">◤ the skyline — 3d contribution graph ◢</h3>
+<p align="center"><sub>my commits, rendered as a city — nobody expects this one</sub></p>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/n3-rd/n3-rd/output/profile-night-rainbow.svg" width="100%"/>
+</div>
+
+<h3 align="center">◤ the snake that eats my commit history ◢</h3>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/n3-rd/n3-rd/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,100:24243e&height=3&width=900" width="100%"/>
+</div>
+
+<h3 align="center">◤ vitals ◢</h3>
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=n3-rd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF9D&icon_color=FF00C8&text_color=c9d1d9&ring_color=00D4FF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3-rd&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=c9d1d9&langs_count=8"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=n3-rd&hide_border=true&background=0d1117&ring=FF00C8&fire=00FF9D&currStreakLabel=00D4FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+
+</div>
+
+<details>
+<summary align="center"><b>◤ trophy vault — click to unlock ◢</b></summary>
+<br>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=n3-rd&theme=algolia&no-frame=true&row=1&margin-w=12" />
+</div>
+</details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:24243e,100:0f0c29&height=3&width=900" width="100%"/>
+</div>
+
+<h3 align="center">◤ activity feed ◢</h3>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/n3-rd/n3-rd/output/activity-graph.svg" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,100:24243e&height=3&width=900" width="100%"/>
+</div>
+
+<pre align="center">
+<code>
+ [ transmission ending in 3... 2... 1... ]
+ &gt;&gt;&gt; reach out. build with me. n3rd out. ⌁
+</code>
+</pre>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-000000?style=for-the-badge&logo=vercel&logoColor=00FF9D)](https://github.com/n3-rd)
+[![Twitter](https://img.shields.io/badge/X-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=FF00C8)](https://twitter.com/)
+[![Buy Me A Coffee](https://img.shields.io/badge/FUEL_THE_LAB-COFFEE-000000?style=for-the-badge&logo=buymeacoffee&logoColor=00D4FF)](https://www.buymeacoffee.com/Godwinjemegah)
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=n3-rd&color=00ff9d&style=for-the-badge&label=TRANSMISSIONS+RECEIVED" alt="profile views"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:ff00c8,100:00ff9d&height=200&section=footer&animation=blink" width="100%"/>
+
+<!--
+  ⚙️ SETUP NOTES (delete once wired up — everything else works out of the box)
+
+  Three workflow files are provided alongside this README (in /workflows) —
+  drop all three into .github/workflows/ in your n3-rd/n3-rd repo and
+  the images below will start populating on their next scheduled run
+  (or trigger manually via "Run workflow" in the Actions tab):
+
+  1. workflows/snake.yml → Platane/snk. Writes to the "output" branch.
+  2. workflows/profile-3d-contrib.yml → yoshi389111/github-profile-3d-contrib.
+     Writes profile-night-rainbow.svg (and other palette variants) to
+     "output" — pick a different variant filename above if you prefer
+     another palette.
+  3. workflows/activity-graph.yml → maurodesouza/github-readme-activity-graph-action.
+     Replaces the old github-readme-activity-graph.vercel.app host, which
+     is dead (HTTP 402, upstream billing lockout as of late Aug 2026).
+
+  All three deploy to the same "output" branch with keep_history: true
+  so they don't wipe each other out on each run.
+
+  STATS, TOP LANGS, TROPHIES, STREAK, SKILLICONS, VISITOR COUNTER —
+  all work immediately, no setup, just off your n3-rd username.
+
+  SPOTIFY WIDGET was dropped: Spotify locked down its API in Feb 2026,
+  so a working now-playing widget needs your own Spotify Premium account
+  + your own deployed instance (e.g. github.com/Antonio-Laguna/novatorem) —
+  say the word if you want that set up as a fourth workflow.
+-->
