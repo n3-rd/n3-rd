@@ -105,7 +105,7 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=n3-rd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF9D&icon_color=FF00C8&text_color=c9d1d9&ring_color=00D4FF"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3-rd&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=c9d1d9&langs_count=8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=n3-rd&hide_border=true&background=0d1117&ring=FF00C8&fire=00FF9D&currStreakLabel=00D4FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+<img src="https://streak-stats.demolab.com/?user=n3-rd&hide_border=true&background=0d1117&ring=FF00C8&fire=00FF9D&currStreakLabel=00D4FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
 
 </div>
 
@@ -151,32 +151,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:ff00c8,100:00ff9d&height=200&section=footer&animation=blink" width="100%"/>
-
-<!--
-  ⚙️ SETUP NOTES (delete once wired up — everything else works out of the box)
-
-  Three workflow files are provided alongside this README (in /workflows) —
-  drop all three into .github/workflows/ in your n3-rd/n3-rd repo and
-  the images below will start populating on their next scheduled run
-  (or trigger manually via "Run workflow" in the Actions tab):
-
-  1. workflows/snake.yml → Platane/snk. Writes to the "output" branch.
-  2. workflows/profile-3d-contrib.yml → yoshi389111/github-profile-3d-contrib.
-     Writes profile-night-rainbow.svg (and other palette variants) to
-     "output" — pick a different variant filename above if you prefer
-     another palette.
-  3. workflows/activity-graph.yml → maurodesouza/github-readme-activity-graph-action.
-     Replaces the old github-readme-activity-graph.vercel.app host, which
-     is dead (HTTP 402, upstream billing lockout as of late Aug 2026).
-
-  All three deploy to the same "output" branch with keep_history: true
-  so they don't wipe each other out on each run.
-
-  STATS, TOP LANGS, TROPHIES, STREAK, SKILLICONS, VISITOR COUNTER —
-  all work immediately, no setup, just off your n3-rd username.
-
-  SPOTIFY WIDGET was dropped: Spotify locked down its API in Feb 2026,
-  so a working now-playing widget needs your own Spotify Premium account
-  + your own deployed instance (e.g. github.com/Antonio-Laguna/novatorem) —
-  say the word if you want that set up as a fourth workflow.
--->
