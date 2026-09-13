@@ -130,7 +130,7 @@
 <h3 align="center">◤ now playing ◢</h3>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/n3-rd/n3-rd/output/spotify.svg" width="450" alt="spotify now playing"/>
+<img src="https://music.n3-rd.xyz/api/now-playing-card.svg" width="450" alt="spotify now playing"/>
 </div>
 
 <div align="center">
@@ -146,8 +146,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-000000?style=for-the-badge&logo=vercel&logoColor=00FF9D)](https://github.com/n3-rd)
-[![Twitter](https://img.shields.io/badge/X-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=FF00C8)](https://twitter.com/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-000000?style=for-the-badge&logo=vercel&logoColor=00FF9D)](https://n3-rd.xyz)
 [![Buy Me A Coffee](https://img.shields.io/badge/FUEL_THE_LAB-COFFEE-000000?style=for-the-badge&logo=buymeacoffee&logoColor=00D4FF)](https://www.buymeacoffee.com/Godwinjemegah)
 
 <br><br>
