@@ -5,7 +5,7 @@
   <text x="130" y="58" fill="#f0f6fc" font-family="monospace" font-size="16" font-weight="700">LUV HRTS</text>
   <text x="130" y="78" fill="#8b949e" font-family="monospace" font-size="12">Zamir, Odunsi (The Engine) — FLOWERBOI4000</text>
   <rect x="130" y="96" width="300" height="4" rx="2" fill="#21262d"/>
-  <rect x="130" y="96" width="205.4" height="4" rx="2" fill="#7900f4"/>
-  <text x="130" y="114" fill="#6e7681" font-family="monospace" font-size="10">1:56</text>
+  <rect x="130" y="96" width="0.0" height="4" rx="2" fill="#7900f4"/>
+  <text x="130" y="114" fill="#6e7681" font-family="monospace" font-size="10">0:00</text>
   <text x="430" y="114" fill="#6e7681" font-family="monospace" font-size="10" text-anchor="end">2:50</text>
 </svg>
